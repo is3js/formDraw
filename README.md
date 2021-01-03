@@ -7,3 +7,6 @@
 
 ## form_progress.py
 경과기록지 작성용 form widgets + panel
+
+
+원격지에서 수정함.
