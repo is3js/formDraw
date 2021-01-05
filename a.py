@@ -16,6 +16,6 @@ print("Hell, World!!")
 
 77777777777777777
 
-bracnch1에서 작업한 내용
+"brannch1에서 작업한 내용"
 
 print(123)
