@@ -16,6 +16,6 @@ print("Hell, World!!")
 
 77777777777777777
 
-"brannch1에서 작업한 내용 in 회사"
+"brannch1에서 작업한 내용 in 회사 -> 집에서 받았음."
 
 print(123)
